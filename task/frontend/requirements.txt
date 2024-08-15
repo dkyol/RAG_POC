@@ -1,0 +1,21 @@
+## For networking
+gunicorn==22.0.0
+pandas==2.2.2
+flask-sse==1.0.0
+httpx_sse==0.4.0
+
+## LangChain 
+langserve==0.2.0
+langchain==0.2.0
+langchain_community==0.2.0
+openai==1.30.1
+
+## Vectorstores
+faiss-cpu==1.8.0
+
+## For Arxiv
+arxiv==2.1.0
+pymupdf==1.24.4
+
+## Gradio
+gradio==4.31.4
